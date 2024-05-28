@@ -1,0 +1,1 @@
+var json_TITIKEVKUASI_4 = {"type":"FeatureCollection","name":"TITIKEVKUASI_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0},"geometry":{"type":"Point","coordinates":[108.122779937368435,-6.869094384927059]}}]}
